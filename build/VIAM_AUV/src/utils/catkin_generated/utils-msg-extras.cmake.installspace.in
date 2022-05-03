@@ -1,0 +1,2 @@
+set(utils_MESSAGE_FILES "msg/Odometry.msg;msg/Setpoint.msg;msg/Error.msg;msg/MotorsCommand.msg;msg/KeyboardCommand.msg;msg/Waypoint.msg;msg/WaypointList.msg;msg/ParamValue.msg;msg/ThrusterStatus.msg;msg/MassShifterStatus.msg;msg/PistonStatus.msg;msg/BoardARM1Status.msg;msg/BoardARM2Status.msg")
+set(utils_SERVICE_FILES "srv/CommandInt.srv;srv/CommandLong.srv;srv/ParamGet.srv;srv/ParamSet.srv;srv/SetMode.srv")

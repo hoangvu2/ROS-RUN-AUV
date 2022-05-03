@@ -1,0 +1,8 @@
+prefix=/home/hoang/Desktop/auv_ws/devel
+
+Name: utils
+Description: Description of utils
+Version: 0.0.0
+Cflags: -I/home/hoang/Desktop/auv_ws/devel/include -I/home/hoang/Desktop/auv_ws/src/VIAM_AUV/src/utils/include
+Libs: -L${prefix}/lib 
+Requires: 

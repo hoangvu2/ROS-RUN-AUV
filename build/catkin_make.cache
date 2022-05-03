@@ -1,0 +1,2 @@
+VIAM_AUV/src/controller:VIAM_AUV/src/gcs_transceiver:VIAM_AUV/src/guider:VIAM_AUV/src/mavconn:VIAM_AUV/src/navigator:VIAM_AUV/src/stm_transceiver:VIAM_AUV/src/utils:rosbag_to_csv
+-DCATKIN_DEVEL_PREFIX=/home/hoang/Desktop/auv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hoang/Desktop/auv_ws/install -G Unix Makefiles
